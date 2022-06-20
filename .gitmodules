@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dynamac"]
+	path = dynamac
+	url = https://github.com/andyphilips/dynamac
+	shallow = true
+	registered = true
